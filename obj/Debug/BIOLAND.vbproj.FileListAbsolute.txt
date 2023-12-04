@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\BIOLAND\obj\Debug\Interop.WinHttp.dll
+C:\Users\User\source\repos\BIOLAND\obj\Debug\BIOLAND.vbproj.ResolveComReference.cache
+C:\Users\User\source\repos\BIOLAND\obj\Debug\BIOLAND.Form1.resources
+C:\Users\User\source\repos\BIOLAND\obj\Debug\BIOLAND.Resources.resources
+C:\Users\User\source\repos\BIOLAND\obj\Debug\BIOLAND.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\BIOLAND\obj\Debug\BIOLAND.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BIOLAND\bin\Debug\BIOLAND.exe.config
+C:\Users\User\source\repos\BIOLAND\bin\Debug\BIOLAND.exe
+C:\Users\User\source\repos\BIOLAND\bin\Debug\BIOLAND.pdb
+C:\Users\User\source\repos\BIOLAND\bin\Debug\BIOLAND.xml
+C:\Users\User\source\repos\BIOLAND\obj\Debug\BIOLAND.exe
+C:\Users\User\source\repos\BIOLAND\obj\Debug\BIOLAND.xml
+C:\Users\User\source\repos\BIOLAND\obj\Debug\BIOLAND.pdb
+C:\Users\User\source\repos\BIOLAND\bin\Debug\PowerMeter.dll
+C:\Users\User\source\repos\BIOLAND\bin\Debug\PowerMeter.pdb
+C:\Users\User\source\repos\BIOLAND\obj\Debug\BIOLAND.vbproj.AssemblyReference.cache
