@@ -22,5 +22,30 @@ BIOLAND
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:BIOLAND.My.Resources.Resources.acb_closed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIOLAND.My.Resources.Resources.acb_open">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIOLAND.My.Resources.Resources.acb_xclosed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIOLAND.My.Resources.Resources.acb_xopen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BIOLAND.My.Resources.Resources.CLOUD4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 </members>
 </doc>

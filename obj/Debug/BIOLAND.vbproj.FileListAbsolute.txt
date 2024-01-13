@@ -13,4 +13,15 @@ C:\Users\User\source\repos\BIOLAND\obj\Debug\BIOLAND.xml
 C:\Users\User\source\repos\BIOLAND\obj\Debug\BIOLAND.pdb
 C:\Users\User\source\repos\BIOLAND\bin\Debug\PowerMeter.dll
 C:\Users\User\source\repos\BIOLAND\bin\Debug\PowerMeter.pdb
+C:\Users\User\source\repos\BIOLAND\bin\Debug\ClassLibrary2.dll
+C:\Users\User\source\repos\BIOLAND\bin\Debug\ClassLibrary2.pdb
+C:\Users\User\source\repos\BIOLAND\obj\Debug\BIOLAND.InverterControl.resources
+C:\Users\User\source\repos\BIOLAND\obj\Debug\BIOLAND.DigitalInputs_16.resources
 C:\Users\User\source\repos\BIOLAND\obj\Debug\BIOLAND.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\BIOLAND\obj\Debug\BIOLAND.vbproj.CopyComplete
+C:\Users\User\source\repos\BIOLAND\bin\Debug\Renci.SshNet.dll
+C:\Users\User\source\repos\BIOLAND\bin\Debug\Renci.SshNet.pdb
+C:\Users\User\source\repos\BIOLAND\bin\Debug\Renci.SshNet.xml
+C:\Users\User\source\repos\BIOLAND\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\BIOLAND\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\repos\BIOLAND\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
